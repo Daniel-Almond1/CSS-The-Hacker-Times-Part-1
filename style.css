@@ -13,6 +13,13 @@ ul {
     
 
 }
+nav {
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    z-index: 1;
+    
+}
 nav li{
   display: inline-block;
   margin-right: 8px;
