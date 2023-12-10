@@ -18,13 +18,13 @@ nav {
     top: 0px;
     background-color: white;
     z-index: 1;
+    font-size: 2vw;
     
 }
 nav li{
   display: inline-block;
   margin-right: 8px;
   
-
 }
 nav ul{
     border-bottom: 2px solid rgb(0,0,0,0.1);
